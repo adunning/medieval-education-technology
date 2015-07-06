@@ -96,7 +96,7 @@ order: 3
 - **Essay Due**
 
 #### Read
-- The *Glosa* on the Bible: selection in Ryan McDermott, trans., ‘The Ordinary Gloss on Jonah’, *PMLA* 128, no. 2 (March 2013): 424–38, doi:[10.1632/pmla.2013.128.2.424](http://dx.doi.org.myaccess.library.utoronto.ca/10.1632/pmla.2013.128.2.424) (also online at  <http://d-scholarship.pitt.edu/18871/>).
+- The *Glosa* on the Bible: selection in Ryan McDermott, trans., ‘The Ordinary Gloss on Jonah’, *PMLA* 128, no. 2 (March 2013): 424–38, doi:[10.1632/pmla.2013.128.2.424](http://doi.org.myaccess.library.utoronto.ca/10.1632/pmla.2013.128.2.424) (also online at  <http://d-scholarship.pitt.edu/18871/>).
 - Hugh of St Victor, *Didascalicon*, trans. Jerome Taylor, Records of Civilization, Sources and Studies 64 (New York: Columbia University Press, 1961), 43–60, 120–134 (Preface, Book 1, Book 5), <http://archive.org/details/didascaliconmedi00hugh>.<!-- AE2 .H83 1961 RBTS/ICS/KNOX/IMS/SMC/TRIN/VIC -->
 
 <!--consider lengthening Did. -->

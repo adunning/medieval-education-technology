@@ -13,9 +13,14 @@ Assessment is weighted as follows:
 - Essay (*due 10 August*): 30%
 - Final Exam (*date to be announced*): 35%
 
+Please submit hard copies assignments during class: the technology of paper has the advantage of being much easier to annotate than an electronic document. The essay should also be submitted to Turnitin.com (sign-in information is on the Learning Portal).
+
 ## Class participation
 
-Each class will consist of an overview of its topic and a discussion of the primary source listed in the schedule. Participation is graded on attendance and the quality of your contributions to the class discussion.
+Each class will consist of an overview of its topic and a discussion of the primary source listed in the schedule. Participation is graded on attendance and the quality of your contributions to the class discussion. Some of the questions we deal with are controversial; please keep these points in mind in interacting with your peers and in your writing:
+
+- Ask questions and state your opinions respectfully, but do not worry about conforming to 'correct' perspectives.
+- Take the statements of others in the most charitable way possible.
 
 ## Term test and final exam
 
@@ -38,6 +43,6 @@ The essay asks you to compare different material expressions of the books discus
 
 Each book brings unique problems. If there is another document you wish to study, please approach me with your proposal during office hours.
 
-Start writing the paper by writing a proposal on your topic. This should outline your planned argument, indicating the source you plan to study and the manuscripts you intend to use. It should be at least three hundred words long, and can be written point-form.
+Start writing the paper by writing a proposal on your topic. This should outline your planned argument, indicating the source you plan to study and the manuscripts you intend to use. It should be around three hundred words long, and can be written (even handwritten) point-form or using diagrams.
 
 You must take into account at least three secondary sources (some are recommended on the course website): cite these using the [*Chicago Manual of Style*](http://www.chicagomanualofstyle.org.myaccess.library.utoronto.ca/). The paper may be submitted in either English or French, and should be around two thousand words long.
