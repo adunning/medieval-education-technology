@@ -1,0 +1,22 @@
+# Site settings
+title: Medieval Education and Information Technology
+email: 'andrew.dunning@utoronto.ca'
+description: > 
+  An exploration of developments in education and technology in the Middle Ages, analysing their implications both in their own time and in the modern world.
+baseurl: "/medieval-education-technology" # the subpath of your site, e.g. /blog
+url: "http://andrewdunning.ca" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+# Course information
+course_number: "HIS 221"
+course_term: "Summer 2015"
+course_meetingtime: "Monday/Wednesday, 6 July–17 August 2015, 6:00–8:00 p.m."
+course_room: "Davis Building 3093"
+course_department: 'University of Toronto Mississauga, Department of Historical Studies'
+instructor_name: Andrew Dunning
+instructor_website: 'http://andrewdunning.ca'
+instructor_office: 'Erindale Hall 207'
+instructor_officehours: "Wednesdays during term, 5:00–6:00 p.m."
+course_description: "An introduction to the derivation and basic meaning of English technical and scientific vocabulary formed from Latin and Greek elements."

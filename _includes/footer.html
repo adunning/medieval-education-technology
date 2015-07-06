@@ -1,0 +1,33 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+            <li>{{ site.course_number }} · {{ site.course_term }}</li>
+          <li>Meets {{ site.course_meetingtime }}</li>
+          <li>{{ site.course_room }}</li>
+          <li>{{ site.course_department }}</li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li><a href="{{ site.instructor_website }}">{{ site.instructor_name }}</a></li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>Office: {{ site.instructor_office }}</li>
+          <li>Hours: {{ site.instructor_officehours }}</li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
