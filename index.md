@@ -26,7 +26,4 @@ This course does not presume previous knowledge of medieval history, or of langu
 
 ## Required readings
 
-This course places an emphasis on reading and interpreting primary sources, with a series of lectures providing their historical context and an overarching narrative. Selections from copyrighted translations are available through the [Learning Portal](https://portal.utoronto.ca/). You may find it useful to purchase an inexpensive modern translation of the work you study in your essay, and annotate it.
-
-For further background on the lectures, you may wish to read one of the relevant chapters on the topic on [Cambridge Histories Online](http://universitypublishingonline.org.myaccess.library.utoronto.ca/cambridge/histories/), available through the University of Toronto libraries.
-
+This course places an emphasis on reading and interpreting primary sources, with a series of lectures providing their historical context and an overarching narrative. Selections from copyrighted translations are available through the [Learning Portal](https://portal.utoronto.ca/). You may find it useful to purchase an inexpensive modern translation of the work you study in your essay, and annotate it. If you wish further background material on the lectures, see the [Resources](./resources/) page for recommendations.
