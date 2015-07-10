@@ -4,7 +4,7 @@ title: Translations of the Psalms from the Vulgate
 permalink: /vulgate-psalms/
 ...
 
-While much of the Latin translation of the Bible common in the Middle Ages, typically called the Vulgate, was translated by Jerome from the Hebrew, other parts were only light revisions of earlier Latin translations, collectively referred to as the Old Latin Bible, which were often made from the Septuagint (abbreviated LXX), an early translation from Hebrew into Greek. The 'Gallican Psalter' was the most common text of the Psalms in the Middle Ages, and was one of these revisions; it can sometimes differ significantly from the Hebrew. (While Jerome made a new Latin translation of the Psalms into Hebrew, it was only used for scholarly purposes in the Middle Ages.) See the [New English Translation of the Septuagint](http://ccat.sas.upenn.edu/nets/edition/) for a direct translation from the Greek to English.
+While much of the Latin translation of the Bible common in the Middle Ages, typically called the Vulgate, was translated by Jerome from the Hebrew, other parts were only light revisions of earlier Latin translations, collectively referred to as the Old Latin Bible, which were often made from the Septuagint (abbreviated LXX), an early translation from Hebrew into Greek. The 'Gallican Psalter' was the most common text of the Psalms in the Middle Ages, and was one of these revisions; it can sometimes differ significantly from the Hebrew, and is numbered differently. (While Jerome made a new Latin translation of the Psalms into Hebrew, it was only used for scholarly purposes in the Middle Ages.) See the [New English Translation of the Septuagint](http://ccat.sas.upenn.edu/nets/edition/) for a direct translation from the Greek to English.
 
 Source: Robert Weber et al., eds., *Biblia Sacra iuxta vulgatam versionem*, 5th ed. (Stuttgart: Deutsche Bibelgesellschaft, 2007). Translated from the Latin by Andrew Dunning; [CC BY](https://creativecommons.org/licences/by/4.0/).
 
@@ -157,7 +157,7 @@ from the womb, before the morning star, I brought you forth.
 
 <sup>5</sup>The Lord at your right has broken kings in the day of his wrath.
 
-<sup>6</sup>He will judge among the nations; he will fulfil the dead bodies:  
+<sup>6</sup>He will judge among the nations; he will satisfy the dead bodies:  
 he will shatter heads on the land of many.
 
 <sup>7</sup>He will drink from the rushing stream in the way:  
