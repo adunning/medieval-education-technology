@@ -181,7 +181,7 @@ For a summary of the literature, see John Marenbon, 'Boethius', *Oxford Bibliogr
 - Claussen, M.A. ‘Fathers of Power and Mothers of Authority: Dhuoda and the *Liber manualis*’. French Historical Studies 19, no. 3 (April 1996): 785–809. doi:[10.2307/286647](http://doi.org/10.2307/286647).
 - Dronke, Peter. *Women Writers of the Middle Ages: A Critical Study of Texts from Perpetua († 203) to Marguerite Porete († 1310).* Cambridge: Cambridge University Press, 1984.
 
-### The Utrect Psalter
+### The Utrecht Psalter
 
 #### Manuscripts
 

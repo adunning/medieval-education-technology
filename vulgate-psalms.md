@@ -4,11 +4,15 @@ title: Translations of the Psalms from the Vulgate
 permalink: /vulgate-psalms/
 ...
 
-While much of the Latin translation of the Bible common in the Middle Ages, typically called the Vulgate, was translated by Jerome from the Hebrew, other parts were only light revisions of earlier Latin translations, collectively referred to as the Old Latin Bible, which were often made from the Septuagint (abbreviated LXX), an early translation from Hebrew into Greek. While Jerome made a new translation of the Psalms into Hebrew, it was only used for scholarly purposes in the Middle Ages; the text of the Psalms found in the [Utrecht Psalter](http://utrechtpsalter.nl), and which was used in daily services in most parts of Europe, was one of these revisions, and it can sometimes differ significantly from the Hebrew. See the [New English Translation of the Septuagint](http://ccat.sas.upenn.edu/nets/edition/) for a direct translation from the Greek to English.
+While much of the Latin translation of the Bible common in the Middle Ages, typically called the Vulgate, was translated by Jerome from the Hebrew, other parts were only light revisions of earlier Latin translations, collectively referred to as the Old Latin Bible, which were often made from the Septuagint (abbreviated LXX), an early translation from Hebrew into Greek. The 'Gallican Psalter' was the most common text of the Psalms in the Middle Ages, and was one of these revisions; it can sometimes differ significantly from the Hebrew. (While Jerome made a new Latin translation of the Psalms into Hebrew, it was only used for scholarly purposes in the Middle Ages.) See the [New English Translation of the Septuagint](http://ccat.sas.upenn.edu/nets/edition/) for a direct translation from the Greek to English.
 
 Source: Robert Weber et al., eds., *Biblia Sacra iuxta vulgatam versionem*, 5th ed. (Stuttgart: Deutsche Bibelgesellschaft, 2007). Translated from the Latin by Andrew Dunning; [CC BY](https://creativecommons.org/licences/by/4.0/).
 
+Links are provided to the illustrated [Utrecht Psalter](http://bc.library.uu.nl/utrecht-psalter.html) and the surviving copies of this manuscript, the [Harley Psalter](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_603) and [Eadwine Psalter](http://sites.trin.cam.ac.uk/james/viewpage.php?index=1229) (which includes the Gallican alongside the Hebrew and Roman texts).
+
 ## Psalm 1, *Beatus uir qui non abiit*
+
+([Utrecht Psalter, pp. 11–12](http://objects.library.uu.nl/reader/index.php?obj=1874-284427&lan=en#page//46/00/19/46001949193835361873338121333815278268.jpg/mode/1up); [Harley Psalter, fols. 1v–2r](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_603_f001v); [Eadwine Psalter, fols. 5v–6r](http://sites.trin.cam.ac.uk/manuscripts/r_17_1/manuscript.php?fullpage=1&startingpage=12))
 
 <sup>1</sup>Blessed is the man who has not passed in the counsel of the ungodly,  
 and has not stood in the way of sinners:  
@@ -33,6 +37,8 @@ nor the sinners in the counsel of the righteous.
 and the way of the ungodly will perish.
 
 ## Psalm 4, *Cum inuocarem*
+
+([Utrecht Psalter, pp. 12–13](http://objects.library.uu.nl/reader/index.php?obj=1874-284427&lan=en#page//91/97/65/91976564053086137379038748336320714509.jpg/mode/1up); [Harley Psalter, fols. 2v–3r](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_603_f002v); [Eadwine Psalter, fols. 9r–9v](http://sites.trin.cam.ac.uk/manuscripts/r_17_1/manuscript.php?fullpage=1&startingpage=19))
 
 <sup>1</sup>*Until the end. Among the songs. A psalm of David.*
 
@@ -67,7 +73,9 @@ you have given gladness in my heart.
 
 ## Psalm 50 (51), *Miserere mei, Deus*
 
-<sup>1</sup>*Until the end. A psalm of David, <sup>2</sup>when Nathan the prophet came to him, when David went into Bathsheba.*
+([Utrecht Psalter, pp. 65–66](http://objects.library.uu.nl/reader/index.php?obj=1874-284427&lan=en#page//10/06/19/100619803724793270162039958413564368089.jpg/mode/1up); [Eadwine Psalter, fols. 88v–90v](http://sites.trin.cam.ac.uk/manuscripts/r_17_1/manuscript.php?fullpage=1&startingpage=178))
+
+<sup>1</sup>*Until the end. A psalm of David,* <sup>2</sup>*when Nathan the prophet came to him, when David went into Bathsheba.*
 
 <sup>3</sup>Have mercy on me, O God, according to your great compassion:  
 and according to the multitude of your mercies destroy my wickedness.
@@ -129,6 +137,8 @@ the oblations and whole burnt offerings;
 then will they place young animals on your altar.
 
 ## Psalm 109 (110), *Dixit Dominus*
+
+([Utrecht Psalter, pp. 136–137](http://objects.library.uu.nl/reader/index.php?obj=1874-284427&lan=en#page//72/52/45/72524522942408603628769022993318784925.jpg/mode/1up); [Harley Psalter, fols. 56v–57r](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_603_f056v); [Eadwine Psalter, fols. 199v–200r](http://sites.trin.cam.ac.uk/manuscripts/r_17_1/manuscript.php?fullpage=1&startingpage=400))
 
 <sup>1</sup>*A hymn of David.*
 
