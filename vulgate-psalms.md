@@ -149,7 +149,8 @@ until I make your enemies a footstool for your feet.’
 rule in the midst of your enemies.
 
 <sup>3</sup>With you is the rule on the day of your strength,  
-among the splendours of the holy ones; from the womb, before the morning star, I brought you forth.
+among the splendours of the holy ones;  
+from the womb, before the morning star, I brought you forth.
 
 <sup>4</sup>The Lord swore, and will not change his mind:  
 ‘You are a priest for ever according to the order of Melchisedech.’
