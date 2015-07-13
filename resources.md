@@ -187,7 +187,7 @@ For a summary of the literature, see John Marenbon, 'Boethius', *Oxford Bibliogr
 
 - [Utrecht, Universiteitsbibliotheek, MS 32](http://bc.library.uu.nl/utrecht-psalter.html) (second quarter of the 9th century)
 
-Compare later copies made from this book:
+Compare later copies made from this book ([linked from the translations](../vulgate-psalms/)):
 
 - [Cambridge, Trinity College, R.17.1](http://sites.trin.cam.ac.uk/james/viewpage.php?index=1229) (the 'Eadwine Psalter': 12th century)
 - [London, British Library, Harley 603](http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_603) (the 'Harley Psalter': first half of the 11th century) (See also the [Illuminated Manuscripts page](http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=18402).)
