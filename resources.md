@@ -70,7 +70,7 @@ Compare the depiction of the martyrdom of Perpetua, Felicitas, Revocatus, Saturn
 
 #### Secondary Literature
 
-- Dronke, Peter. *Women Writers of the Middle Ages: A Critical Study of Texts from Perpetua († 203) to Marguerite Porete († 1310).* Cambridge: Cambridge University Press, 1984.
+- Dronke, Peter. *Women Writers of the Middle Ages: A Critical Study of Texts from Perpetua († 203) to Marguerite Porete († 1310).* Cambridge: Cambridge University Press, 1984. [http://hdl.handle.net/2027/heb.01185.0001.001](http://hdl.handle.net.myaccess.library.utoronto.ca/2027/heb.01185.0001.001).
 - Heffernan, Thomas J. *The Passion of Perpetua and Felicity.* Oxford: Oxford University Press, 2012. doi:[10.1093/acprof:osobl/9780199777570.001.0001](http://doi.org.myaccess.library.utoronto.ca/10.1093/acprof:osobl/9780199777570.001.0001). (This is the source for the English translation used in class: it also includes extensive commentary, and appendix 1 discusses the manuscripts and editions, with photographs.)
 - Robert, Louis. ‘Une vision de Perpétue martyre à Carthage en 203’. *Comptes rendus des séances de l’Académie des Inscriptions et Belles-Lettres* 126, no. 2 (1982): 228–76. doi:[10.3406/crai.1982.13939](http://doi.org/10.3406/crai.1982.13939).
 - Shaw, Brent D. ‘The Passion of Perpetua’. *Past & Present* 139, no. 1 (May 1993): 3–45. doi:[10.1093/past/139.1.3](http://doi.org.myaccess.library.utoronto.ca/10.1093/past/139.1.3).
@@ -158,6 +158,7 @@ For a summary of the literature, see John Marenbon, 'Boethius', *Oxford Bibliogr
 - [St. Gallen, Stiftsbibliothek, Cod. Sang. 394](http://doi.org/10.5076/e-codices-csg-0394) (second or third quarter of the 11th century)
 - [St. Gallen, Stiftsbibliothek, Cod. Sang. 453](http://doi.org/10.5076/e-codices-csg-0453)
 - [St. Gallen, Stiftsbibliothek, Cod. Sang. 914](http://doi.org/10.5076/e-codices-csg-0914) (first third of the 9th century: claims to be descended from the autograph of Benedict)
+- [St. Gallen, Stiftsbibliothek, Cod. Sang. 915](http://doi.org/10.5076/e-codices-csg-0915) (middle of the 9th century/10th century/11th century)
 - [St. Gallen, Stiftsbibliothek, Cod. Sang. 916](http://doi.org/10.5076/e-codices-csg-0916) (beginning of the 9th century)
 
 #### Secondary Literature
@@ -179,7 +180,7 @@ For a summary of the literature, see John Marenbon, 'Boethius', *Oxford Bibliogr
 - Airlie, Stuart. 'The Aristocracy'. In *The New Cambridge Medieval History,* vol. 2, *c.700–c.900,* edited by Rosamond McKitterick, 431–50. Cambridge: Cambridge University Press, 1995. doi:[10.1017/CHOL9780521362924.019](http://doi.org.myaccess.library.utoronto.ca/10.1017/CHOL9780521362924.019).
 - Cherewatuk, Karen. '[*Speculum matris*: Duoda's Manual](http://gilles.maillet.free.fr/histoire/pdf/dhuoda.pdf)'. *Florilegium* 10 (1988–91): 49–63.
 - Claussen, M.A. ‘Fathers of Power and Mothers of Authority: Dhuoda and the *Liber manualis*’. French Historical Studies 19, no. 3 (April 1996): 785–809. doi:[10.2307/286647](http://doi.org/10.2307/286647).
-- Dronke, Peter. *Women Writers of the Middle Ages: A Critical Study of Texts from Perpetua († 203) to Marguerite Porete († 1310).* Cambridge: Cambridge University Press, 1984.
+- Dronke, Peter. *Women Writers of the Middle Ages: A Critical Study of Texts from Perpetua († 203) to Marguerite Porete († 1310).* Cambridge: Cambridge University Press, 1984. [http://hdl.handle.net/2027/heb.01185.0001.001](http://hdl.handle.net.myaccess.library.utoronto.ca/2027/heb.01185.0001.001).
 
 ### The Utrecht Psalter
 
@@ -237,7 +238,7 @@ The Durham copy of the Magna Carta will be [on display at Fort York from 4 Octob
 
 #### Secondary Literature
 
-- Dronke, Peter. *Women Writers of the Middle Ages: A Critical Study of Texts from Perpetua († 203) to Marguerite Porete († 1310).* Cambridge: Cambridge University Press, 1984.
+- Dronke, Peter. *Women Writers of the Middle Ages: A Critical Study of Texts from Perpetua († 203) to Marguerite Porete († 1310).* Cambridge: Cambridge University Press, 1984. [http://hdl.handle.net/2027/heb.01185.0001.001](http://hdl.handle.net.myaccess.library.utoronto.ca/2027/heb.01185.0001.001).
 
 For an overview of the literature, see Honey Meconi, 'Hildegard of Bingen', *Oxford Bibliographies,* doi:[10.1093/OBO/9780199757824-0129](http://doi.org.myaccess.library.utoronto.ca/10.1093/OBO/9780199757824-0129).
 

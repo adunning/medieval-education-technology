@@ -28,7 +28,7 @@ Tests will give you the opportunity to demonstrate your comprehension of the top
 
 ## Essay
 
-The essay asks you to compare different material expressions of the books discussed in the course by examining the manuscripts that contain them, alongside translations of the text. Each of these is a unique historical artefact; you will likely want to select one or two of the manuscripts [listed on the Resources page](../resources/) (depending on the book). Consider the following questions as you seek to understand why the book was written, and how it was later received:
+The essay asks you to compare different material expressions of the books discussed in the course by examining the manuscripts that contain them, alongside translations of the text. Each of these is a unique historical artefact; you will likely want to select one or two of the manuscripts [listed on the Resources page](../resources/) corresponding to the text(s) you choose. You might consider some of the following questions as you seek to understand why the book was written, and how it was later received:
 
 - What is the topic of the work? What are the main themes the author addresses?
 - Who is the author?
