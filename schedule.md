@@ -74,7 +74,7 @@ order: 3
 ## Towards Modernity?
 
 ### 8. Wednesday, 29 July
-- Roman, Civil, and Common Law
+- Roman, Civil, Common, and Canon Law
 
 #### Read
 - Gratian, *The Treatise on Laws* (*Decretum DD. 1–20*), *with the Ordinary Gloss*, trans. Augustine Thompson and James Gordley (Washington, DC: Catholic University of America Press, 1993), 2–15.<!-- K3282 .C2 G7313 1993 RBTS/IMS/SMC/VIC -->
@@ -84,7 +84,6 @@ order: 3
 
 ### 9. Wednesday, 5 August
 - Church, State, and Society
-- Canon Law
 
 #### Read
 - Hildegard of Bingen, ‘*Ordo virtutum*/*The Play of the Virtues*’, in *Nine Medieval Latin Plays*, ed. and trans. Peter Dronke, Cambridge Medieval Classics 1 (Cambridge: Cambridge University Press, 1994), 160–84 (odd-numbered pages).<!-- PA8165 .N56 1994 RBTS/IMS/SMC/ERIN/VIC -->
