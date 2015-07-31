@@ -45,7 +45,7 @@ Each book brings unique problems. If there is another document you wish to study
 
 Start writing the paper by writing a proposal on your topic. This should outline your planned argument, indicating the source you plan to study and the manuscripts you intend to use. It should be around three hundred words long, and can be written (even handwritten) point-form or using diagrams.
 
-You must take into account at least three secondary sources (some are recommended on the course website): cite these using the [*Chicago Manual of Style*](http://www.chicagomanualofstyle.org.myaccess.library.utoronto.ca/). The paper may be submitted in either English or French, and should be around two thousand words long.
+You must take into account at least three secondary sources (some are recommended on the [Resources page](../resources/)): cite these using the [*Chicago Manual of Style*](http://www.chicagomanualofstyle.org.myaccess.library.utoronto.ca/). The paper may be submitted in either English or French, and should be around two thousand words long.
 
 ## Analytical Writing Rubric
 
