@@ -79,6 +79,19 @@ li {
 
 
 /**
+ * Tables
+ */
+th, td {
+  text-align: left;
+  vertical-align: text-top;
+}
+
+// for rubric
+table > tbody > tr > td:first-child {
+  font-weight: bold;
+}
+
+/**
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
