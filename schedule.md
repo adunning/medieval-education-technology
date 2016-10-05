@@ -21,16 +21,16 @@ order: 3
 - From Scroll to Codex
 
 #### Read
-- Augustine, *De doctrina Christiana/On Christian Teaching*, ed. and trans. R.P.H. Green (Oxford: Clarendon Press, 1995), 1–25, 49–55 (Preface, Book 1.1–26, 1.84–95: odd-numbered pages), doi:[10.1093/0198263341.001.0001](http://doi.org.myaccess.library.utoronto.ca/10.1093/0198263341.001.0001).<!-- BR65 .A655 E5 1995 RBTS/IMS/SMC/TRIN -->
-- Thomas J. Heffernan, trans., ‘The Passion of Saints Perpetua and Felicity’, in *The Passion of Perpetua and Felicity* (Oxford: Oxford University Press, 2012), 125–35, doi:[10.1093/acprof:osobl/9780199777570.003.0005](http://doi.org.myaccess.library.utoronto.ca/10.1093/acprof:osobl/9780199777570.003.0005).<!-- BR1720 .P42 H44 2012 EMM/SMC/ERIN -->
+- Augustine, *De doctrina Christiana/On Christian Teaching*, ed. and trans. R.P.H. Green (Oxford: Clarendon Press, 1995), 1–25, 49–55 (Preface, Book 1.1–26, 1.84–95: odd-numbered pages), <https://doi.org/10.1093/0198263341.001.0001>.<!-- BR65 .A655 E5 1995 RBTS/IMS/SMC/TRIN -->
+- Thomas J. Heffernan, trans., ‘The Passion of Saints Perpetua and Felicity’, in *The Passion of Perpetua and Felicity* (Oxford: Oxford University Press, 2012), 125–35, <https://doi.org/10.1093/acprof:osobl/9780199777570.003.0005>.<!-- BR1720 .P42 H44 2012 EMM/SMC/ERIN -->
 
 ### 3. Monday, 13 July
 - The Liberal Arts
 
 #### Read
-- Cassiodorus, *Institutions of Divine and Secular Learning*, trans. James W. Halprin and Mark Vessey, Translated Texts for Historians 42 (Liverpool: Liverpool University Press, 2003), 105–111 (Preface to Book 1), 119–21 (1.4), 133 (1.10), 159–63 (1.28, 1.29), doi:[10.3828/978-0-85323-998-7](http://doi.org.myaccess.library.utoronto.ca/10.3828/978-0-85323-998-7).<!-- PA6271 .C4 I523 2004 RBTS/IMS/SMC/ERIN -->
-- Isidore of Seville, *Etymologies*, trans. Stephen A. Barney et al. (Cambridge: Cambridge University Press, 2006), 241–43 (11.2), 259–63 (12.6), doi:[10.1017/CBO9780511482113](http://doi.org.myaccess.library.utoronto.ca/10.1017/CBO9780511482113).<!-- AE2 .I833 I75 2006 RBTS/IMS/SMC/VIC -->
-<!-- - Martianus Capella, *The Marriage of Philology and Mercury*, trans. William Harris Stahl, Richard Johnson, and E.L. Burge, vol. 2 of *Martianus Capella and the Seven Liberal Arts* (New York: Columbia University Press, 1977), 3–63 (Books 1 and 2), [http://hdl.handle.net/2027/heb.06022.0002.001](http://hdl.handle.net.myaccess.library.utoronto.ca/2027/heb.06022.0002.001).<!-- PA6511 .M3 M3 RBTS/IMS/SMC/OISE/VIC -->
+- Cassiodorus, *Institutions of Divine and Secular Learning*, trans. James W. Halprin and Mark Vessey, Translated Texts for Historians 42 (Liverpool: Liverpool University Press, 2003), 105–111 (Preface to Book 1), 119–21 (1.4), 133 (1.10), 159–63 (1.28, 1.29), <https://doi.org/10.3828/978-0-85323-998-7>.<!-- PA6271 .C4 I523 2004 RBTS/IMS/SMC/ERIN -->
+- Isidore of Seville, *Etymologies*, trans. Stephen A. Barney et al. (Cambridge: Cambridge University Press, 2006), 241–43 (11.2), 259–63 (12.6), <https://doi.org/10.1017/CBO9780511482113>.<!-- AE2 .I833 I75 2006 RBTS/IMS/SMC/VIC -->
+<!-- - Martianus Capella, *The Marriage of Philology and Mercury*, trans. William Harris Stahl, Richard Johnson, and E.L. Burge, vol. 2 of *Martianus Capella and the Seven Liberal Arts* (New York: Columbia University Press, 1977), 3–63 (Books 1 and 2), <https://hdl.handle.net/2027/heb.06022.0002.001>.<!-- PA6511 .M3 M3 RBTS/IMS/SMC/OISE/VIC -->
 
 <!-- http://faculty.georgetown.edu/jod/texts/cass.inst.html -->
 
@@ -52,7 +52,7 @@ order: 3
 - **Essay Proposal Due**
 
 #### Read
-- Benedict, *Rule for Monasteries*, trans. Leonard J. Doyle (Collegeville, MN: Liturgical Press, 1948), <http://hdl.handle.net/2027/mdp.39015005043180>.
+- Benedict, *Rule for Monasteries*, trans. Leonard J. Doyle (Collegeville, MN: Liturgical Press, 1948), <https://hdl.handle.net/2027/mdp.39015005043180> (text also at <http://gutenberg.org/ebooks/50040>).
 
 <!--cf. BX3004 .E6 2011X RBTS/IMS/TRIN -->
 
@@ -95,8 +95,8 @@ order: 3
 - **Essay Due**
 
 #### Read
-- The *Glosa* on the Bible: selection in Ryan McDermott, trans., ‘The Ordinary Gloss on Jonah’, *PMLA* 128, no. 2 (March 2013): 424–38, doi:[10.1632/pmla.2013.128.2.424](http://doi.org.myaccess.library.utoronto.ca/10.1632/pmla.2013.128.2.424) (also online at <http://d-scholarship.pitt.edu/18871/>).
-- Hugh of St Victor, *Didascalicon*, trans. Jerome Taylor, Records of Civilization, Sources and Studies 64 (New York: Columbia University Press, 1961), 43–60, 120–134 (Preface, Book 1, Book 5), <http://archive.org/details/didascaliconmedi00hugh>.<!-- AE2 .H83 1961 RBTS/ICS/KNOX/IMS/SMC/TRIN/VIC -->
+- The *Glosa* on the Bible: selection in Ryan McDermott, trans., ‘The Ordinary Gloss on Jonah’, *PMLA* 128, no. 2 (March 2013): 424–38, <https://doi.org/10.1632/pmla.2013.128.2.424> (also online at <http://d-scholarship.pitt.edu/18871/>).
+- Hugh of St Victor, *Didascalicon*, trans. Jerome Taylor, Records of Civilization, Sources and Studies 64 (New York: Columbia University Press, 1961), 43–60, 120–134 (Preface, Book 1, Book 5), <https://archive.org/details/didascaliconmedi00hugh>.<!-- AE2 .H83 1961 RBTS/ICS/KNOX/IMS/SMC/TRIN/VIC -->
 
 ### 11. Wednesday, 12 August
 - Schools and Universities
@@ -109,6 +109,6 @@ order: 3
 - Printing and the Renaissance: The End of an Information Commons?
 
 #### Read
-- Cincius Romanus, ‘To his most learned teacher Franciscus de Fiana’, in *Two Renaissance Book Hunters: The Letters of Poggius Bracciolini to Nicolaus de Niccolis,* trans. Phyllis Walter Goodhart Gordan, Records of Civilization, Sources and Studies 91 (New York: Columbia University Press, 1974), 187–91, [http://hdl.handle.net/2027/heb.05978.0001.001](http://hdl.handle.net.myaccess.library.utoronto.ca/2027/heb.05978.0001.001).<!--use Rosenwein 491–93 for notes: ref -->
+- Cincius Romanus, ‘To his most learned teacher Franciscus de Fiana’, in *Two Renaissance Book Hunters: The Letters of Poggius Bracciolini to Nicolaus de Niccolis,* trans. Phyllis Walter Goodhart Gordan, Records of Civilization, Sources and Studies 91 (New York: Columbia University Press, 1974), 187–91, <https://hdl.handle.net/2027/heb.05978.0001.001>.<!--use Rosenwein 491–93 for notes: ref -->
 - Johannes Trithemius, *In Praise of Scribes/De Laude Scriptorum*, ed. Klaus Arnold, trans. Roland Behrendt (Lawrence, KS: Coronado Press, 1974), 29–37, 59–65, 93–97 (epistle, chs. 1, 6, 7, 15: odd-numbered pages only).
-<!-- - Dante Alighieri, *De vulgari eloquentia*, ed. and trans. Steven Botterill, Cambridge Medieval Classics 5 (Cambridge: Cambridge University Press, 1996), 2–45 (Book 1: odd-numbered pages), doi:[10.1017/CBO9780511519444](http://doi.org.myaccess.library.utoronto.ca/10.1017/CBO9780511519444).<!-- PQ4311 .D6 1996 IMS/VIC -->
+<!-- - Dante Alighieri, *De vulgari eloquentia*, ed. and trans. Steven Botterill, Cambridge Medieval Classics 5 (Cambridge: Cambridge University Press, 1996), 2–45 (Book 1: odd-numbered pages), <https://doi.org/10.1017/CBO9780511519444>.<!-- PQ4311 .D6 1996 IMS/VIC -->
