@@ -179,7 +179,7 @@ For a summary of the literature, see John Marenbon, 'Boethius', *Oxford Bibliogr
 
 - Airlie, Stuart. 'The Aristocracy'. In *The New Cambridge Medieval History,* vol. 2, *c.700–c.900,* edited by Rosamond McKitterick, 431–50. Cambridge: Cambridge University Press, 1995. <https://doi.org/10.1017/CHOL9780521362924.019>.
 - Cherewatuk, Karen. '[*Speculum matris*: Duoda's Manual](http://gilles.maillet.free.fr/histoire/pdf/dhuoda.pdf)'. *Florilegium* 10 (1988–91): 49–63.
-- Claussen, M.A. ‘Fathers of Power and Mothers of Authority: Dhuoda and the *Liber manualis*’. French Historical Studies 19, no. 3 (April 1996): 785–809. <<https://doi.org/10.2307/286647>).
+- Claussen, M.A. ‘Fathers of Power and Mothers of Authority: Dhuoda and the *Liber manualis*’. French Historical Studies 19, no. 3 (April 1996): 785–809. <https://doi.org/10.2307/286647>).
 - Dronke, Peter. *Women Writers of the Middle Ages: A Critical Study of Texts from Perpetua († 203) to Marguerite Porete († 1310).* Cambridge: Cambridge University Press, 1984. <https://hdl.handle.net/2027/heb.01185.0001.001>.
 
 ### The Utrecht Psalter
